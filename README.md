@@ -1,7 +1,8 @@
-# Mouse-hack-for-wB
+# Word-Blitz-Facebook-Game
+Generates the right combination of words to beat the Facebook game: Word Blitz.
 
+Few words present in the wordlists weren't accepted. Solution is to either refine the wordlist or download a better wordlist. 
 
-We can use Xlib library. (Will upload sample code, Easy to find )
+Three wordlists are given. "words3.txt" seems to perform better.
 
-finally im using a very convinient terminal too - xdotool 
-API--- click 1 ; click 3 ; mousedown 1; mouseup 1; mousemove x y ;......
+video tutorial: https://youtu.be/0zH6lbbZjmY
